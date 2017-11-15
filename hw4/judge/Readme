@@ -1,0 +1,2 @@
+gcc judge.c -o judge
+./judge ../code/submission.csv ans.csv
